@@ -39,9 +39,8 @@ Performance was benchmarked against:
 
 ### Strategy Portfolio Value vs SPY Buy & Hold
 
-(strategy_backtest.png)
+<img width="1391" alt="strategy_backtest" src="https://github.com/user-attachments/assets/2c6e0a9f-5dcf-4444-ac4b-c2882e1cc253" />
 
 ### Sharpe Ratio, Alpha, and Beta output for each strategy in comparison to SPY.
 
-<img width="1391" alt="strategy_backtest" src="https://github.com/user-attachments/assets/2c6e0a9f-5dcf-4444-ac4b-c2882e1cc253" />
 <img width="704" alt="metrics" src="https://github.com/user-attachments/assets/8417e682-f9dd-4ab3-bad2-af56ff1272c8" />
